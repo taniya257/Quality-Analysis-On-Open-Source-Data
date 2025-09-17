@@ -1,0 +1,10 @@
+pandas>=1.4
+numpy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+mlflow
+pingouin
+fairlearn
+pytest
